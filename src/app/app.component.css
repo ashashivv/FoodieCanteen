@@ -1,0 +1,17 @@
+.nav-link {
+  margin-right: 1em;
+  color: #000;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.nav-link:hover {
+  color: #e2a76f;
+}
+.navbar-brand {
+  color: #c36241;
+}
+.card-img-top {
+  height: 200px;
+  background-position: center;
+}

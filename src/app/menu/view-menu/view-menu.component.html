@@ -1,0 +1,11 @@
+<div class="card mt-4 mb-4">
+  <img class="card-img-top img-fluid" [src]="image" alt="" />
+  <div class="card-body">
+    <h3 class="card-title">{{ menuDetails.menuName }}</h3>
+    <h4>${{ menuDetails.price }}</h4>
+    <p class="card-text">{{ menuDetails.description }}</p>
+  </div>
+  <button type="button" class="btn btn-success" (click)="btn('z')">
+    Order Now
+  </button>
+</div>

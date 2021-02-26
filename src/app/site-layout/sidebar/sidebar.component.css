@@ -1,0 +1,6 @@
+.list-group-item {
+  color: brown !important;
+}
+.list-group-item:hover {
+  color: green !important;
+}

@@ -1,0 +1,324 @@
+{
+    "menu": [
+      { "id": 1, 
+        "menuName": "Bread with egg",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 200,
+        "rating": 4,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/img1.jpg",
+        "categoryId": 2
+
+
+      },
+      { "id": 2, 
+        "menuName": "Toasted Bread",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 250,
+        "rating": 5,
+        "reviews": 200,
+        "menuImage":"http://localhost:4200/assets/img/toastedBread.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 3, 
+        "menuName": "Full Meal",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 230,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/meal.jpg",
+        "categoryId": 2
+
+      },
+      { "id": 4, 
+        "menuName": "Pan Cake",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 350,
+        "rating": 4.8,
+        "reviews": 250,
+        "menuImage":"http://localhost:4200/assets/img/pancake.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 5, 
+        "menuName": "Vegetable Salad",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 230,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/vegetableSalad.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 6, 
+        "menuName": "Green Soup",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/greensoup.jpg",
+        "categoryId": 2
+
+      },
+      { "id": 7, 
+        "menuName": "Oats",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/oats.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 8, 
+        "menuName": "Fried Rice",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/friedrice.jpg",
+        "categoryId": 3
+
+      },
+      { "id": 9, 
+        "menuName": "Roasted Meat",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/roastedmeat.jpg",
+        "categoryId": 3
+
+      },
+      { "id": 10, 
+        "menuName": "Pasta",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/pasta.jpg",
+        "categoryId": 3
+
+      },
+      { "id": 11, 
+        "menuName": "Meat Balls",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/meatballs.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 12, 
+        "menuName": "Raspberry Cake",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/raspberrycake.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 1, 
+        "menuName": "Bread with egg",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 200,
+        "rating": 4,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/img1.jpg",
+        "categoryId": 3
+
+
+      },
+      { "id": 2, 
+        "menuName": "Toasted Bread",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 250,
+        "rating": 5,
+        "reviews": 200,
+        "menuImage":"http://localhost:4200/assets/img/toastedBread.jpg",
+        "categoryId": 2
+
+      },
+      { "id": 3, 
+        "menuName": "Full Meal",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 230,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/meal.jpg",
+        "categoryId": 3
+
+      },
+      { "id": 4, 
+        "menuName": "Pan Cake",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 350,
+        "rating": 4.8,
+        "reviews": 250,
+        "menuImage":"http://localhost:4200/assets/img/pancake.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 5, 
+        "menuName": "Vegetable Salad",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 230,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/vegetableSalad.jpg",
+        "categoryId": 2
+
+      },
+      { "id": 6, 
+        "menuName": "Green Soup",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/greensoup.jpg",
+        "categoryId": 3
+
+      },
+      { "id": 7, 
+        "menuName": "Oats",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/oats.jpg",
+        "categoryId": 2
+
+      },
+      { "id": 8, 
+        "menuName": "Fried Rice",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/friedrice.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 9, 
+        "menuName": "Roasted Meat",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/roastedmeat.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 10, 
+        "menuName": "Pasta",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/pasta.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 11, 
+        "menuName": "Meat Balls",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/meatballs.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 12, 
+        "menuName": "Raspberry Cake",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/raspberrycake.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 1, 
+        "menuName": "Bread with egg",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 200,
+        "rating": 4,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/img1.jpg",
+        "categoryId": 1
+
+
+      },
+      { "id": 2, 
+        "menuName": "Toasted Bread",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 250,
+        "rating": 5,
+        "reviews": 200,
+        "menuImage":"http://localhost:4200/assets/img/toastedBread.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 3, 
+        "menuName": "Full Meal",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 230,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/meal.jpg",
+        "categoryId": 1
+
+      },
+      { "id": 4, 
+        "menuName": "Pan Cake",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 350,
+        "rating": 4.8,
+        "reviews": 250,
+        "menuImage":"http://localhost:4200/assets/img/pancake.jpg",
+        "categoryId": 3
+
+      },
+      { "id": 5, 
+        "menuName": "Vegetable Salad",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 230,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/vegetableSalad.jpg",
+        "categoryId": 4
+
+      },
+      { "id": 6, 
+        "menuName": "Green Soup",
+        "descriptions": "The vivid colours of the food spoke to its freshness and the bold flavours to come.",
+        "price": 150,
+        "rating": 4.6,
+        "reviews": 150,
+        "menuImage":"http://localhost:4200/assets/img/greensoup.jpg",
+        "categoryId": 1
+
+      }
+      
+      
+
+
+
+      
+    ],
+    "categories": [
+      { "id": 1, "categoryName": "Breakfast" },
+      { "id": 2, "categoryName": "Lunch" },
+      { "id": 3, "categoryName": "Dinner" },
+      { "id": 4, "categoryName": "Today's Special" }
+
+
+
+
+    ],
+    "profile": { "name": "typicode" }
+  }

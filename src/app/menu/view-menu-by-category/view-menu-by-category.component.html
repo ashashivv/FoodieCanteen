@@ -1,0 +1,21 @@
+<div class="row mt-4">
+  <div class="col-lg-4 col-md-6 mb-4" *ngFor="let menu of menuList">
+    <div class="card h-10">
+      <div class="card-body">
+        <a href="#"
+          ><img class="card-img-top" src="{{ menu.menuImage }}" alt=""
+        /></a>
+        <h4 class="card-title">
+          <a (click)="abc(menu.id)">{{ menu.menuName }}</a>
+        </h4>
+        <h5><span>₹</span>{{ menu.price }}</h5>
+        <p class="card-text">{{ menu.description }}</p>
+      </div>
+      <div class="card-footer">
+        <small class="text-muted"
+          >&#9733; &#9733; &#9733; &#9733; &#9734;</small
+        >
+      </div>
+    </div>
+  </div>
+</div>
